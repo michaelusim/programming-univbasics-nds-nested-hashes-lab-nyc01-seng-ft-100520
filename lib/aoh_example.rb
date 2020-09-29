@@ -22,10 +22,10 @@ def literal_aoh
    { :name=> "Kate Gompert", :occupation=> "None" },
   { :name=> "Bruce Green", :occupation=> "Fan of Mildred" }]
   return help
- 
 end
 
 def aoh_lookup(aoh, row, key)
+  return aoh
   
 end
 
