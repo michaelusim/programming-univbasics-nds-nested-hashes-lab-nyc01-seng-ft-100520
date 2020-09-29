@@ -16,7 +16,7 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-  help = [{DON_G[name],DON_G[occupation] }, {JOELLE_VD[name],JOELLE_VD[occupation]},{PAT_M},{KATE_G},{BRUCE_G}]
+  help = [{DON_G[name],DON_G[occupation] }, {JOELLE_VD[name],JOELLE_VD[occupation]},{PAT_M[name]},{KATE_G},{BRUCE_G}]
  
 end
 
